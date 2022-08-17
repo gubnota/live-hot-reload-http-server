@@ -1,0 +1,15 @@
+{
+	"name": "y",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dev-server.js",
+	"scripts": {
+		"start": "nodemon ./dev-server.js --ext js,html,css,md"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"nodemon": "^2.0.19",
+		"ws": "^8.8.1"
+	}
+}
